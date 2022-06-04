@@ -1,0 +1,4 @@
+﻿  oop.cpp
+D:\vs_project\oop\oop.cpp(10,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\vs_project\oop\oop.cpp(28,23): warning C4018: “<”: 有符号/无符号不匹配
+  oop.vcxproj -> D:\vs_project\oop\Debug\oop.exe
